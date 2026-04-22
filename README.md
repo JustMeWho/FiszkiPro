@@ -1,3 +1,11 @@
+## ☕ Wsparcie projektu
+
+Jeśli program Ci się podoba i chcesz docenić moją pracę nad jego rozwojem, możesz postawić mi wirtualną kawę:
+
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/paymewho)
+
+Każde wsparcie motywuje do dodawania nowych funkcjonalności! Dzięki! 🚀
+
 # 🗂️ Fiszki Pro - Twój Osobisty Trener Słownictwa
 
 Fiszki Pro to nowoczesna, desktopowa aplikacja do nauki języków obcych (aktualnie wspiera angielski i polski), zbudowana w Pythonie przy użyciu biblioteki **CustomTkinter**. Program pozwala na kompleksowe zarządzanie własnymi zestawami słówek oraz oferuje cztery różnorodne tryby nauki, które angażują różne mechanizmy zapamiętywania.
