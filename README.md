@@ -29,12 +29,10 @@ Fiszki Pro to nowoczesna, desktopowa aplikacja do nauki języków obcych, zbudow
 
 ### Wymagania
 * System operacyjny: Windows
-* Biblioteki (jeśli uruchamiasz kod źródłowy): `customtkinter`, `sqlite3`
 
 ### Instalacja i Uruchomienie
-1.  Pobierz plik `FiszkiPro.exe`.
-2.  Upewnij się, że w tym samym folderze znajduje się Twoja ikona `icon.ico` (jeśli korzystasz z wersji spakowanej).
-3.  Uruchom program. Przy pierwszym starcie aplikacja automatycznie utworzy niezbędne pliki konfiguracji i bazy danych.
+1.  Pobierz zip'a z zakładki `Releases`.
+2.  Uruchom program. Przy pierwszym starcie aplikacja automatycznie utworzy niezbędne pliki konfiguracji i bazę danych.
 
 ---
 
@@ -42,7 +40,6 @@ Fiszki Pro to nowoczesna, desktopowa aplikacja do nauki języków obcych, zbudow
 * **Język:** Python 3.x
 * **Interfejs:** CustomTkinter (Modern UI)
 * **Baza danych:** SQLite3
-* **Kompilacja:** PyInstaller
 
 ---
 
