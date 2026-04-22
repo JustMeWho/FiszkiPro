@@ -1,6 +1,6 @@
 # 🗂️ Fiszki Pro - Twój Osobisty Trener Słownictwa
 
-Fiszki Pro to nowoczesna, desktopowa aplikacja do nauki języków obcych, zbudowana w Pythonie przy użyciu biblioteki **CustomTkinter**. Program pozwala na kompleksowe zarządzanie własnymi zestawami słówek oraz oferuje cztery różnorodne tryby nauki, które angażują różne mechanizmy zapamiętywania.
+Fiszki Pro to nowoczesna, desktopowa aplikacja do nauki języków obcych (aktualnie wspiera angielski i polski), zbudowana w Pythonie przy użyciu biblioteki **CustomTkinter**. Program pozwala na kompleksowe zarządzanie własnymi zestawami słówek oraz oferuje cztery różnorodne tryby nauki, które angażują różne mechanizmy zapamiętywania.
 
 ---
 
