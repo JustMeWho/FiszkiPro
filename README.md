@@ -39,7 +39,7 @@ Fiszki Pro to nowoczesna, desktopowa aplikacja do nauki języków obcych (aktual
 * System operacyjny: Windows
 
 ### Instalacja i Uruchomienie
-1.  Pobierz zip'a z zakładki `Releases`.
+1.  Pobierz plik exe z zakładki `Releases`.
 2.  Uruchom program. Przy pierwszym starcie aplikacja automatycznie utworzy niezbędne pliki konfiguracji i bazę danych.
 
 ---
