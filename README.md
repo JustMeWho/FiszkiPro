@@ -17,7 +17,7 @@ Fiszki Pro to nowoczesna, desktopowa aplikacja do nauki języków obcych (aktual
 ### 🗃️ Zarządzanie Zestawami
 * **Tworzenie i Import:** Możliwość ręcznego wpisywania słówek w wygodnym widoku tabelarycznym lub masowego importu z tekstu (obsługa separatorów takich jak średnik, przecinek czy myślnik).
 * **Edycja Wizualna:** Pełna kontrola nad istniejącymi zestawami – dodawanie, usuwanie i modyfikacja słówek w dowolnym momencie.
-* **Baza Danych SQLite:** Wszystkie Twoje postępy i zestawy są bezpiecznie przechowywane w lokalnej bazie danych `fiszki.db`.
+* **Baza Danych SQLite:** Wszystkie Twoje postępy i zestawy są bezpiecznie przechowywane w lokalnej bazie danych `fiszki.db`, bądź innej utworzonej przez użytkownika.
 
 ### 🧠 Tryby Nauki
 1.  **📝 Quiz (ABCD):** Klasyczny wybór jednej z czterech odpowiedzi. Idealny na początek nauki z nowym materiałem.
